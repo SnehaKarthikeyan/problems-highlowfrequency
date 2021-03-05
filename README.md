@@ -25,7 +25,7 @@ Sample Input:
 Sample Output:
 
 1 8
-f
+
 Explanation:
 
 From the given array, the lowest frequency is 1 and the highest frequency 8.

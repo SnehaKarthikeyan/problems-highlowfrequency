@@ -20,6 +20,7 @@ Count the frequency of each elements in the array and print the highest and the 
 Sample Input:
 
 19
+
 2 6 2 2 7 6 2 5 3 6 6 2 4 6 2 2 9 6 2
 
 Sample Output:
@@ -35,6 +36,7 @@ Testcase 1:
 Input:
 
 37
+
 56 78 67 22 43 54 66 87 67 11 25 45 55 67 11 73 67 34 56 78 67 22 43 54 66 87 67 23 45 68 11 73 67 34 56 78 67 
 
 Output:
@@ -46,6 +48,7 @@ Testcase 2:
 Input:
 
 57
+
 22 43 54 66 87 67 23 45 68 11 25 45 55 67 11 73 67 34 56 78 67 22 43 54 66 23 45 68 11 25 45 55 67 11 73 67 34 56 78 87 67 23 45 68 11 25 45 55 67 11 73 67 34 56 78 67 22
 
 Output:

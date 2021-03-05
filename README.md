@@ -20,7 +20,6 @@ Count the frequency of each elements in the array and print the highest and the 
 Sample Input:
 
 19
-
 2 6 2 2 7 6 2 5 3 6 6 2 4 6 2 2 9 6 2
 
 Sample Output:
